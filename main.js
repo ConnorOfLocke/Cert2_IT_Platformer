@@ -48,8 +48,9 @@ function run()
 	
 	player.update(deltaTime);
 	
-	player.draw();
 	
+	drawMap();
+	player.draw();
 		
 		// update the frame counter 
 	fpsTime += deltaTime;
