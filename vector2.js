@@ -27,3 +27,6 @@ Vector2.prototype.Normalize = function()
 	this.x /= length;
 	this.y /= length;
 }
+
+
+///IM A NEW LINE YAAAAAAAAY
